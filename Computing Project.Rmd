@@ -1,0 +1,11 @@
+---
+title: "Computing Project"
+author: "Damon Landis"
+date: "3/29/2021"
+output: html_document
+---
+Damon Landis: The goal of this project is to determine the more efficient data analysis tool for a capstone experiment. Our group is split into two subgroups with one using R and one using Mathematica. Currently, we are making sure we are comfortable with each program and waiting for the polymerase chain reaction capstone project to wrap up so we can write our separate programs. Personally, I have researched the differences between the two programs and have also read through guides on the R program itself. 
+
+Aaron Bowlin: The goal of our group’s project is not only to write a couple program’s that can deal with the data created by a capstone project, but to determine which programming language (R or Mathematica) would perform better for this specific given project. We must wait for the polymerase chain reaction experiment to finish in order to have the data in order to actually write the program. However, I have researched articles and watched tutorial videos on R programming and plan on meeting with Dr. Malmberg soon. regarding the program.
+
+Jackson Landsteiner: The group was split into two sub groups. I was apart of the r markdown group, so while the capstone project was finishing, I have been familiarizing myself with the different functions to properly utilize the coding. Once the information is obtained it’ll be placed into the code.
