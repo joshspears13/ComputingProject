@@ -1,0 +1,35 @@
+Notebook[{Cell[
+BoxData[""],"Input",ExpressionUUID -> "da701a09-f4b2-42e7-8b49-05877433dc6f"],Cell[
+BoxData[
+{RowBox[{"data1"," ","="," ",RowBox[{"{",RowBox[{"2090",","," ","1960",","," ","2920"}],"}"}]}],"\n",RowBox[
+{"data2"," ","="," ",RowBox[{"{",RowBox[{"4000",","," ","104000",","," ","4600"}],"}"}]}],"\n",RowBox[
+{"data3"," ","="," ",RowBox[{"{",RowBox[{"11100",","," ","12500",","," ","21900"}],"}"}]}],"\n",RowBox[
+{"data4"," ","="," ",RowBox[{"{",RowBox[{"22100",","," ","7100",","," ","15600"}],"}"}]}],"\n",RowBox[
+{"data5"," ","="," ",RowBox[{"{",RowBox[{"20800",","," ","5800",","," ","22400"}],"}"}]}],"\n",RowBox[
+{"data6"," ","="," ",RowBox[{"{",RowBox[{"14500",","," ","7100",","," ","5700"}],"}"}]}],"\n",RowBox[
+{"data7"," ","="," ",RowBox[{"{",RowBox[{"18200",","," ","12300",","," ","20100"}],"}"}]}],"\n",RowBox[
+{"data8"," ","="," ",RowBox[{"{",RowBox[{"4100",","," ","29900",","," ","27000"}],"}"}]}]}],
+"Input",ExpressionUUID -> "eda955b5-c352-42d2-bdcf-cd58c135f7b7"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"TableForm","[",RowBox[{RowBox[{"{",RowBox[{RowBox[{"{",RowBox[
+{"2090",",","4000",",","11100",",","22100",",","20800",",","14500",",","18200",",","4100"}],"}"}],",",RowBox[
+{"{",RowBox[{"1960",",","10400",",","12500",",","7100",",","5800",",","7100",",","12300",",","29900"}],"}"}],",",RowBox[
+{"{",RowBox[{"2920",",","4600",",","21900",",","15600",",","22400",",","5700",",","20100",",","27000"}],"}"}]}],"}"}],",",RowBox[
+{"TableHeadings","\[Rule]",RowBox[{"{",RowBox[{RowBox[{"{",RowBox[{"\"Well1 CFU\"",",","\"Well2 CFU\"",",","\"Well3 CFU\""}],"}"}],",",RowBox[
+{"{",RowBox[{"\"0\"",",","\"0.001\"",",","\"0.01\"",",","\"0.1\"",",","\"1\"",",","\"10\"",",","\"50\"",",","\"100\""}],"}"}]}],"}"}]}]}],"]"}]],
+"Input",CellLabel -> "In[27]:= ",ExpressionUUID -> "3cef3d34-d56f-4db8-81a6-10c2551ad94a"],Cell[
+BoxData[
+TagBox[TagBox[GridBox[{{StyleBox["\[Null]",ShowStringCharacters -> False],TagBox[
+"\"0\"",HoldForm],TagBox["\"0.001\"",HoldForm],TagBox["\"0.01\"",HoldForm],TagBox[
+"\"0.1\"",HoldForm],TagBox["\"1\"",HoldForm],TagBox["\"10\"",HoldForm],TagBox["\"50\"",
+HoldForm],TagBox["\"100\"",HoldForm]},{TagBox["\"Well1 CFU\"",HoldForm],"2090","4000","11100","22100","20800","14500","18200","4100"},{TagBox[
+"\"Well2 CFU\"",HoldForm],"1960","10400","12500","7100","5800","7100","12300","29900"},{TagBox[
+"\"Well3 CFU\"",HoldForm],"2920","4600","21900","15600","22400","5700","20100","27000"}},
+RowSpacings -> 1,ColumnSpacings -> 3,RowAlignments -> Baseline,ColumnAlignments -> Left,
+GridBoxDividers -> {"Columns" -> {False,True,{False},False},"Rows" -> {False,True,{False},False}},
+ColumnAlignments -> Left],{OutputFormsDump`HeadedRows,OutputFormsDump`HeadedColumns}],
+Function[BoxForm`e$,TableForm[BoxForm`e$,TableHeadings -> {{"Well1 CFU","Well2 CFU","Well3 CFU"},{"0","0.001","0.01","0.1","1","10","50","100"}}]]],
+StandardForm],"Output",CellLabel -> "Out[27]//TableForm= ",ExpressionUUID -> "237d7c0d-8dfa-4342-9dc0-aad062da0c68"]},
+Open],ExpressionUUID -> "7ec2213a-c4f0-4bfe-a0e4-5941daaacd83"]},StyleDefinitions -> "Default.nb",
+FrontEndVersion -> "12.2 for Wolfram Cloud 1.58 (March 31, 2021)"]
